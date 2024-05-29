@@ -1,0 +1,81 @@
+body {background-color: #02000a;}
+H1   { font-size: 30px; color: #9900fe }
+H2   { font-size: 20px; padding: 1px; color: #9900fe }
+H3   { font-size: 25px; color: #ff11f2 }
+H4   { font-size: 15px; color: #632aae }
+H5   { font-size: 10px; color: #632aae }
+P    { font-size: 20px; color: #f5f5dc }
+code { font-size: 15px; padding: 1px; color: #33cc33; border: 3px solid gray; }
+
+ul {
+color: #f5f5dc;
+}
+
+a:link, a:visited, a:active {
+color: #16c416;
+}
+
+a:hover {
+color: #007400;
+}
+
+html, body, main
+{
+cursor: url("../img/cur.png"), default;
+}
+
+.blinking-cursor {
+  font-weight: 100;
+  font-size: 30px;
+  color: #2E3D48;
+  -webkit-animation: 1s blink step-end infinite;
+  -moz-animation: 1s blink step-end infinite;
+  -ms-animation: 1s blink step-end infinite;
+  -o-animation: 1s blink step-end infinite;
+  animation: 1s blink step-end infinite;
+}
+
+@keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-moz-keyframes blink {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-webkit-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-ms-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
+
+@-o-keyframes "blink" {
+  from, to {
+    color: transparent;
+  }
+  50% {
+    color: white;
+  }
+}
