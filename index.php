@@ -39,6 +39,8 @@ Kovas McCann Rock's
 
 </main>
 </body>
-<footer>
-    <p>Kovas McCann | 2024 </p>
+<footer >
+        <h3 style="font-size: 2vw; border-top: solid #ddd 1px; margin: 0; position: fixed; width: 100%;  margin: 0; padding: 0; display: inline; ">
+        <p>Kovas McCann | XMR: </p> <p style="font-size:1vw">45yP52mp6Hb9v3TQNrMeihQAJjVVUGacdEidm7rCUSNB8dWuU9QV3amB87xGhoEWioQEMBmVEyXBF1j2Mb4M486gMS3fnqN</p> <p> | 2024 </p>
+        </h3>
 </footer>
