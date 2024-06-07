@@ -22,10 +22,11 @@ Kovas McCann's Personal Webpage
     </p>
 </noscript>
 
+<!-- 
 <h2 style="float:right; unset;">
 <img src="../img/dimenson.png" class="ui-draggable" alt="Teseract" height="250" width="300" style=" border: 3px solid #808080; display: inline-block "/>
 </h2>
-
+-->
 
 <h3 style="font-size: 35px; background-color: #00050a;">
 Rules
